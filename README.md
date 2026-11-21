@@ -25,12 +25,12 @@ The solution helps analyze financial performance, monitor payment transactions a
 ### 1. Executive Financial Overview
 Provides an overview of financial performance through revenue, expenses, net cash flow, financial health status and profit margin KPIs.
 
-![Executive Financial Overview](Screenshot%202026-11-21%20094702.png)
+![Executive Financial Overview](Executive_Financial_Overview.png)
 
 ### 2. Payment & Transaction Analysis
 Displays payment trends, delayed transactions, account head analysis, payment status and payment mode distribution.
 
-![Payment and Transaction Analysis](Screenshot%202026-11-21%20094635.png)
+![Payment and Transaction Analysis](Payment_Transaction_Analysis.png)
 
 ## Key Features
 - Interactive financial performance dashboard.
